@@ -12,7 +12,6 @@ As most of my work, this solution is being constantly updated as I learn new thi
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
