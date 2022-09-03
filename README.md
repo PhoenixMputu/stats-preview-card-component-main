@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-[Solution](https://fluffykas.github.io/order-summary-component/)
+[Solution](https://phoenixmputu.github.io/stats-preview-card-component-main/)
 
 ## My process
 
@@ -50,4 +50,4 @@ Users should be able to:
 - Stack Overflow [@Phoenix23](https://stackoverflow.com/users/15827134/phoenix23)
 - LinkedIn [Victory Deo](https://www.linkedin.com/in/victory-deo-tshimbadi-a8a8b920a/)
 - Instagram [Victory Deo Tshimbadi](https://www.instagram.com/victory_deo_phoenix/)
-- Site web [Victory Deo](https://victorydeo.wordifysites.com")
+- Website [Victory Deo](https://victorydeo.wordifysites.com")
